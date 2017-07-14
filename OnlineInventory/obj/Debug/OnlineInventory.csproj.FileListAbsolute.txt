@@ -1,0 +1,5 @@
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventory\bin\Debug\OnlineInventory.dll
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventory\bin\Debug\OnlineInventory.pdb
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventory\obj\Debug\OnlineInventory.csprojResolveAssemblyReference.cache
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventory\obj\Debug\OnlineInventory.dll
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventory\obj\Debug\OnlineInventory.pdb

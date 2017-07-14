@@ -1,0 +1,11 @@
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\bin\Debug\OnlineInventoryTest.dll
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\bin\Debug\OnlineInventoryTest.pdb
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\bin\Debug\Castle.Core.dll
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\bin\Debug\Moq.dll
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\bin\Debug\OnlineInventory.dll
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\bin\Debug\OnlineInventory.pdb
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\bin\Debug\Moq.xml
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\obj\Debug\OnlineInventoryTest.csprojResolveAssemblyReference.cache
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\obj\Debug\OnlineInventoryTest.dll
+F:\practiseprojects(vs)\OnlineInventory\OnlineInventoryTest\obj\Debug\OnlineInventoryTest.pdb
